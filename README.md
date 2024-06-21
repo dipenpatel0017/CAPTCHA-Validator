@@ -20,3 +20,9 @@ To run this project, you need a web browser. No additional software is required.
    ```bash
    git clone https://github.com/dipenpatel0017/CAPTCHA-Validator.git
    ```
+### Usage
+- Open the index.html file in a web browser.
+- A CAPTCHA will be generated and displayed automatically.
+- Enter the displayed CAPTCHA in the input field.
+- Click the "Submit" button.
+- If the entered CAPTCHA is correct, the form will submit successfully. If incorrect, an error message will be displayed
