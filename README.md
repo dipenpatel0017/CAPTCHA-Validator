@@ -26,3 +26,13 @@ To run this project, you need a web browser. No additional software is required.
 - Enter the displayed CAPTCHA in the input field.
 - Click the "Submit" button.
 - If the entered CAPTCHA is correct, the form will submit successfully. If incorrect, an error message will be displayed
+
+### Project Structure
+ captcha-validation/
+├── index.html
+├── styles.css
+└── captcha.js
+## Output
+
+![image](https://github.com/dipenpatel0017/CAPTCHA-Validator/assets/154975783/831c3c4c-c0a6-4e1d-a817-21b5e66ba7fb)
+
