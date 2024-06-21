@@ -74,3 +74,4 @@ refreshButton.addEventListener('click', function() {
     ctx.fillText(refreshArr.join(''),captchaText.width/4, captchaText.height/2);
     output.innerHTML = "";
 });
+
