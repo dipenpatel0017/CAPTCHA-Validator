@@ -9,7 +9,8 @@ This project demonstrates a simple CAPTCHA validation using HTML, CSS, and JavaS
 - `script.js` - Implements the CAPTCHA generation and validation logic.
 
 ## Getting Started
-
+ the start of captxha validator
+ 
 ### Prerequisites
 
 To run this project, you need a web browser. No additional software is required.
@@ -25,7 +26,7 @@ To run this project, you need a web browser. No additional software is required.
 - A CAPTCHA will be generated and displayed automatically.
 - Enter the displayed CAPTCHA in the input field.
 - Click the "Submit" button.
-- If the entered CAPTCHA is correct, the form will submit successfully. If incorrect, an error message will be displayed
+- If the entered CAPTCHA is correct, the form will submit successfully. If incorrect, an error message will be displayed. 
 
 ### Project Structure
  captcha-validation/
